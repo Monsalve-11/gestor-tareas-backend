@@ -4,6 +4,8 @@ entramos a la carpeta del proyecto y abrimos una consola y ejecutamos la siguien
 
 npm install
 
+debes entrar al xampp inicar el apache y mysql y crear la bd con este nombre gestor_tareas
+
 dentro del proyecto buscar el archivo .env 
 
 PORT=3000
