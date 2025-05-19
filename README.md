@@ -5,11 +5,17 @@ entramos a la carpeta del proyecto y abrimos una consola y ejecutamos la siguien
 npm install
 
 dentro del proyecto buscar el archivo .env 
+
 PORT=3000
+
 DB_HOST=localhost
+
 DB_USER=tu_usuario_bd
+
 DB_PASS=tu_contraseña_bd
+
 DB_NAME=gestor_tareas
+
 
 cambiar estos valores por los de tu xammp 
 
